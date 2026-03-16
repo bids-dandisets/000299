@@ -1,0 +1,28 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "stage": {
+        "Description": "stage of sleep"
+    },
+    "confidence": {
+        "Description": "confidence in stage (0-1)"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "sleep_stages": "The 'sleep_stages' table in the NWB file."
+        },
+        "HED": {
+            "sleep_stages": "Time-interval"
+        }
+    },
+    "sleep_stages": {
+        "Description": "intervals for each sleep stage as determined by EEG"
+    }
+}

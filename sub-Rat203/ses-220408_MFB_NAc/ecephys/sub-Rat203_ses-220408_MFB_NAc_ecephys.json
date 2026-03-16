@@ -1,0 +1,11 @@
+{
+    "InstitutionName": "University of Arizona",
+    "PowerLineFrequency": "n/a",
+    "Manufacturer": "Heien lab",
+    "SamplingFrequency": 5.0,
+    "RecordingDuration": 10.0,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "NAc"
+}
