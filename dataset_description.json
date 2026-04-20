@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "asdfalsdfswadbfnk",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Cowen, Stephen"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
